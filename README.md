@@ -7,4 +7,4 @@ Hello World
 * git push
 * git pull
 * git branch
-** git branch -B nameOfNewBranch
+* * g git branch -B nameOfNewBranch 6
